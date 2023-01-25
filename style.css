@@ -1,0 +1,20 @@
+table.tabla1{
+    border: red 1px solid;
+}
+
+table.tabla2{
+    border: red 1px solid;
+}
+td.EA{
+    border: blue 5px solid;
+}
+
+table.tabla3{
+    border: green 1px solid;
+}
+td.ta{
+    border: green 1px solid;
+    width: 30mm;
+    height: 1mm;
+    text-align: center ;
+}
